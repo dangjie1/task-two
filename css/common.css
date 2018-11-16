@@ -1,0 +1,183 @@
+body{
+    background: url("../images/background.png");
+}
+ul{
+    list-style: none;
+}
+.b{
+    background: url("../images/left.png");
+    width: 92px;
+    height: 150px;
+    position: absolute;
+    margin-top: 29px;
+    margin-left: 189px;
+}
+
+.o{
+    background: url("../images/background4.png");
+    width: 284px;
+    height: 326px;
+    position:absolute;
+    margin-left:1393px;
+    margin-top:254px;
+}
+
+.r{
+    background: url("../images/background5.png");
+    width: 140px;
+    height: 137px;
+    position: absolute;
+    margin-top: 82px;
+    margin-left: 680px;
+}
+
+.s{
+    background: url("../images/background6.png");
+    width: 140px;
+    height: 137px;
+    position: absolute;
+    margin-top: 82px;
+    margin-left: 680px;t
+}
+
+.border{
+    background: url("../images/border.png");
+    width: 920px;
+    height: 663px;
+    position: absolute;
+    margin-top: 296px;
+    margin-left: 576px;
+}
+
+.name{
+    position: absolute;
+    margin-left: 65px;
+    margin-top: 86px;
+}
+
+.sex{
+    position: absolute;
+    margin-top: 86px;
+    margin-left: 323px;
+}
+
+.a{
+    position:absolute;
+    margin-top:168px ;
+    margin-left:65px;
+}
+
+.c{
+    position: absolute;
+    margin-top: 168px;
+    margin-left: 323px;
+}
+
+.d{
+    position: absolute;
+    margin-top:255px;
+    margin-left:65px;
+}
+
+.e{
+    position: absolute;
+    margin-top:335px;
+    margin-left:65px;
+}
+.f{
+    position: absolute;
+    margin-top:402px;
+    margin-left:411px;
+}
+
+.g{
+    position: absolute;
+    margin-top:85px;
+    margin-left:130px;
+}
+
+.h{
+    position: absolute;
+    margin-top:85px;
+    margin-left:393px;
+}
+
+.i{
+    position: absolute;
+    margin-top:165px;
+    margin-left:130px;
+}
+
+.j{
+    position: absolute;
+    margin-top:165px;
+    margin-left:393px;
+}
+
+.k{
+    position: absolute;
+    margin-top:247px;
+    margin-left:130px;
+}
+
+.l{
+    position: absolute;
+    margin-top:433px;
+    margin-left:74px;
+}
+
+.m{
+    position: absolute;
+    margin-top:325px;
+    margin-left:130px;
+}
+
+.n{
+    position: absolute;
+    margin-top:171px;
+    margin-left:616px;
+}
+
+.p{
+    position: absolute;
+    margin-top:596px;
+    margin-left:418px;
+}
+
+.q{
+    font-size: 46.663px;
+    font-family: "SimHei";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    -moz-transform: matrix( 1.27387541387033,0,0,1.27387541387033,0,0);
+    -webkit-transform: matrix( 1.27387541387033,0,0,1.27387541387033,0,0);
+    -ms-transform: matrix( 1.27387541387033,0,0,1.27387541387033,0,0);
+    position: absolute;
+    left: 341.212px;
+    top: 99.61px;
+    width: 369.515px;
+    height: 43.704px;
+    z-index: 6;
+}
+
+.text{
+    position: absolute;
+    margin-top: 438px;
+    margin-left: 78px;
+}
+
+.box{
+    position: absolute;
+    margin-left: 618px;
+    margin-top: 168px;
+}
+ select{border-radius: 20px
+ }
+ input{outline-style: none;
+     border-radius: 20px;
+ }
+
+ textarea {outline-style: none;
+      border-radius: 20px
+
+ }
